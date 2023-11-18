@@ -1,0 +1,121 @@
+
+.btn-red{
+  padding: 12px 40px;
+  background-color:white;
+  color: red;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid red;
+}
+.btn-red:hover{
+  background-color:red;
+  color: black;
+  margin: 10px;
+  border: 2px solid black;
+}
+.btn-green{
+  padding: 12px 40px;
+  background-color:white;
+  color:green ;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid green;
+}
+.btn-green:hover{
+  background-color:green;
+  color: black;
+  margin: 10px;
+  border: 2px solid black;
+}
+.btn-yellow{
+  padding: 12px 40px;
+  background-color:white;
+  color:yellow ;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid yellow;
+}
+.btn-yellow:hover{
+  background-color:yellow;
+  color: black;
+  margin: 10px;
+  border: 2px solid black;
+}
+.btn-purpul{
+  padding: 12px 40px;
+  background-color:white;
+  color: purple;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid purple;
+}
+.btn-purpul:hover{
+  background-color:purple;
+  color: white;
+  margin: 10px;
+  border: 2px solid purple;
+}
+
+.btn-black{
+  padding: 12px 40px;
+  background-color:white;
+  color: black;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid black;
+}
+.btn-black:hover{
+  background-color:black;
+  color: white;
+  margin: 10px;
+  border: 2px solid black;
+}
+.btn-brown{
+  padding: 12px 40px;
+  background-color:white;
+  color: brown;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid brown;
+}
+.btn-brown:hover{
+  background-color:brown;
+  color: white;
+  margin: 10px;
+  border: 2px solid brown;
+}
+.btn-blue{
+  padding: 12px 40px;
+  background-color:white;
+  color: blue;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid blue;
+}
+.btn-blue:hover{
+  background-color:blue;
+  color: white;
+  margin: 10px;
+  border: 2px solid blue  x;
+}
+
+.btn-orange{
+  padding: 12px 40px;
+  background-color:white;
+  color: orange;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px solid orange;
+}
+.btn-orange:hover{
+  background-color:orange;
+  color: white;
+  margin: 10px;
+  border: 2px solid orange  ;
+}
+
+
+
+.dive{
+  text-align: center;
+}
